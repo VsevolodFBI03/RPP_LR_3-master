@@ -1,0 +1,7 @@
+
+Opython:S5806
+"+Rename this variable; it shadows a builtin.(‹ë¢Šøÿÿÿÿ8ÕâÓœ½1
+Ppython:S1481-",Remove the unused local variable "new_data".(³É®ûøÿÿÿÿ8ÕâÓœ½1
+Kpython:S1481A"-Remove the unused local variable "new_data1".(ê¬½T8ÖâÓœ½1
+Opython:S5806<"+Rename this variable; it shadows a builtin.(‹ë¢Šøÿÿÿÿ8ÖâÓœ½1
+Rpython:S5727c"4Remove this identity check; it will always be False.(Ğüm8ÖâÓœ½1

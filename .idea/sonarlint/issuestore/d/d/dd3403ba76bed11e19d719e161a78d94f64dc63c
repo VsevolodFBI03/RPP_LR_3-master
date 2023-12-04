@@ -1,0 +1,10 @@
+
+Gpython:S1481	"(Remove the unused local variable "data".(…øÒŠ8ï—›‹µ1
+Opython:S5806
+"+Rename this variable; it shadows a builtin.(‹ë¢Šøÿÿÿÿ8ð—›‹µ1
+Kpython:S1481",Remove the unused local variable "new_data".(ê¢ä‚8ð—›‹µ1
+Npython:S1481"*Remove the unused local variable "data_1".(˜ø„‹ûÿÿÿÿ8ð—›‹µ1
+Opython:S5806"+Rename this variable; it shadows a builtin.(‹ë¢Šøÿÿÿÿ8ð—›‹µ1
+Npython:S1481&"*Remove the unused local variable "data_2".(ËÀÑúüÿÿÿÿ8ÐÏÃœ½1
+Kpython:S1481*",Remove the unused local variable "new_data".(¾‰ÖÓ8ÐÏÃœ½1
+Opython:S5806'"+Rename this variable; it shadows a builtin.(‹ë¢Šøÿÿÿÿ8ÑÏÃœ½1
